@@ -1,2 +1,2 @@
-# Половюк Олег
-Всім привіт! Я із с. Широка Балка / Україна. Навчаюся на першому курсі в ХНТУ на факультеті "Інформаційні технології та Дизайн". Мрію стати професіоналом в сфері Front-end розробки. Для цього мені потрібно знати: HTML, CSS, JS.
+# Poloviuk Oleg
+Hello everybody! I'm from the s. Shiroka Balka / Ukraine. I am a freshman at KhNTU at the "Faculty of Information Technology and Design". My dream is to become a professional in the field of Front-end development. To do this, I need to know: HTML, CSS, JS.
