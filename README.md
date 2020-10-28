@@ -1,8 +1,8 @@
 <html>
   <head>
-    <title>www<title>
+    <title>www</title>
   <head>
-  <body>
+    <body>
   <center>
   Poloviuk Oleg
   </center>
