@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Mi site<title>
+    <title>www<title>
   <head>
   <body>
   <center>
